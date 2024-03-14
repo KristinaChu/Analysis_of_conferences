@@ -5,7 +5,7 @@
 необходимо провести исследование, определить наиболее популярные темы и популярных спикеров, построить наглядные визуализации и предоставить рекомендации по наполнению для будущих рекомендаций.
 
 ### Описание проекта:
-<img src="https://github.com/KristinaChu/picture/blob/main/oncoforum/%D0%94%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4_2.png?raw=true" width="900" height="500">
+<img src="https://github.com/KristinaChu/picture/blob/main/oncoforum/%D0%94%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4_2.png?raw=true" width="800" height="500">
 
 ### Используемые библиотеки
   `pandas`, `matplotlib`,  `plotly`, `dash`
